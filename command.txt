@@ -60,6 +60,3 @@ gh pr merge 1
 
 -- pull code mới nhất từ remote repository
 git pull
-
--- Add, commit và push tất cả các file
-git add . && git commit -m "Add all files" && git push
