@@ -1,0 +1,8 @@
+-- Khởi tạo dự án
+git init
+
+-- Thêm tất cả các file vào git
+git add .
+
+-- Commit
+git commit -m "Initial commit"
